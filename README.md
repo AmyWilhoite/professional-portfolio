@@ -26,5 +26,5 @@ This work contains:
 ![Screenshot](./assets/readme-screen.png)
 
 ## Links
-* https://amywilhoite.github.io/homework2/
-* https://github.com/AmyWilhoite/homework2
+* https://amywilhoite.github.io/professional-portfolio/
+* https://github.com/AmyWilhoite/professional-portfolio.git
