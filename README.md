@@ -28,3 +28,7 @@ This work contains:
 ## Links
 * https://amywilhoite.github.io/professional-portfolio/
 * https://github.com/AmyWilhoite/professional-portfolio.git
+
+## Contact Me
+* amygitmail@gmail.com
+* 323-510-1025
