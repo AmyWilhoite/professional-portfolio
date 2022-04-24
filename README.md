@@ -23,7 +23,7 @@ This work contains:
 
 
 ## Preview
-![Screenshot](./assets/readme-screen.png)
+![Screenshot](/assets/updateProfile.png)
 
 ## Links
 * https://amywilhoite.github.io/professional-portfolio/
